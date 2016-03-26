@@ -29,7 +29,7 @@ function hilightColor() {
 			series: {
 		      regions: [{
 		        values: country,
-		        scale: ['#C8EEFF', '#0071A4'],
+		        scale: ['#C8EEFF', '#FFFF00'],
 		        normalizeFunction: 'polynomial'
 		      }]
     }
